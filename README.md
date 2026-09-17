@@ -620,3 +620,31 @@ This repository represents my ongoing journey of learning **Data Structures, Alg
 ```
 
 **One problem at a time. One concept at a time. One step closer to mastery. 🚀**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/satiscoding/Study/tree/master/1392-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/satiscoding/Study/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/satiscoding/Study/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/satiscoding/Study/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/satiscoding/Study/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/satiscoding/Study/tree/master/1392-longest-happy-prefix) |
+<!---LeetCode Topics End-->
