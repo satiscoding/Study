@@ -627,6 +627,7 @@ This repository represents my ongoing journey of learning **Data Structures, Alg
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satiscoding/Study/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0859-buddy-strings](https://github.com/satiscoding/Study/tree/master/0859-buddy-strings) |
 | [1392-longest-happy-prefix](https://github.com/satiscoding/Study/tree/master/1392-longest-happy-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/satiscoding/Study/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Rolling Hash
@@ -667,6 +668,7 @@ This repository represents my ongoing journey of learning **Data Structures, Alg
 ## Hash Table
 |  |
 | ------- |
+| [0859-buddy-strings](https://github.com/satiscoding/Study/tree/master/0859-buddy-strings) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/satiscoding/Study/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Trie
 |  |
