@@ -627,6 +627,7 @@ This repository represents my ongoing journey of learning **Data Structures, Alg
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satiscoding/Study/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/satiscoding/Study/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/satiscoding/Study/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/satiscoding/Study/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/satiscoding/Study/tree/master/0520-detect-capital) |
@@ -661,6 +662,7 @@ This repository represents my ongoing journey of learning **Data Structures, Alg
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satiscoding/Study/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/satiscoding/Study/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/satiscoding/Study/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/satiscoding/Study/tree/master/0344-reverse-string) |
 ## Boyer–Moore String-Search Algorithm
 |  |
