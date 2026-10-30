@@ -637,6 +637,7 @@ This repository represents my ongoing journey of learning **Data Structures, Alg
 | [0824-goat-latin](https://github.com/satiscoding/Study/tree/master/0824-goat-latin) |
 | [0859-buddy-strings](https://github.com/satiscoding/Study/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/satiscoding/Study/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/satiscoding/Study/tree/master/0925-long-pressed-name) |
 | [1392-longest-happy-prefix](https://github.com/satiscoding/Study/tree/master/1392-longest-happy-prefix) |
 | [3076-shortest-uncommon-substring-in-an-array](https://github.com/satiscoding/Study/tree/master/3076-shortest-uncommon-substring-in-an-array) |
 ## Rolling Hash
@@ -672,6 +673,7 @@ This repository represents my ongoing journey of learning **Data Structures, Alg
 | [0344-reverse-string](https://github.com/satiscoding/Study/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satiscoding/Study/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/satiscoding/Study/tree/master/0917-reverse-only-letters) |
+| [0925-long-pressed-name](https://github.com/satiscoding/Study/tree/master/0925-long-pressed-name) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
