@@ -632,6 +632,7 @@ This repository represents my ongoing journey of learning **Data Structures, Alg
 | [0151-reverse-words-in-a-string](https://github.com/satiscoding/Study/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/satiscoding/Study/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/satiscoding/Study/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/satiscoding/Study/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/satiscoding/Study/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satiscoding/Study/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0824-goat-latin](https://github.com/satiscoding/Study/tree/master/0824-goat-latin) |
@@ -671,6 +672,7 @@ This repository represents my ongoing journey of learning **Data Structures, Alg
 | [0125-valid-palindrome](https://github.com/satiscoding/Study/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/satiscoding/Study/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/satiscoding/Study/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/satiscoding/Study/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satiscoding/Study/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/satiscoding/Study/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/satiscoding/Study/tree/master/0925-long-pressed-name) |
