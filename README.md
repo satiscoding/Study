@@ -634,6 +634,7 @@ This repository represents my ongoing journey of learning **Data Structures, Alg
 | [0344-reverse-string](https://github.com/satiscoding/Study/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/satiscoding/Study/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satiscoding/Study/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0824-goat-latin](https://github.com/satiscoding/Study/tree/master/0824-goat-latin) |
 | [0859-buddy-strings](https://github.com/satiscoding/Study/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/satiscoding/Study/tree/master/0917-reverse-only-letters) |
 | [1392-longest-happy-prefix](https://github.com/satiscoding/Study/tree/master/1392-longest-happy-prefix) |
